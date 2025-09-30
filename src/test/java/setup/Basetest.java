@@ -28,6 +28,7 @@ public class Basetest {
 		//java functions addedd in the  base test
 		// changes to master local to master git
 		
+		
 //		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 
 //		??Line Deleted
