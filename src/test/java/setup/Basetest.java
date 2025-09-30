@@ -28,6 +28,11 @@ public class Basetest {
 		//java functions addedd in the  base test
 		
 //		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+
+//		??Line Deleted
+
+//		Test 123
+
 		
 		// I have modified through local branch Dinesh Test 1
   
