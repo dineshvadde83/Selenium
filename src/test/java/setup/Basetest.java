@@ -27,8 +27,7 @@ public class Basetest {
 		driver =new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"),cap);
 		//java functions addedd in the  base test
 		// changes to master local to master git
-		
-		
+		//
 //		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 
 //		??Line Deleted
