@@ -6,6 +6,12 @@ public class Newfile {
 		// TODO Auto-generated method stub
 // dinesh 6 3 41 6 th oct going
 		//new code added 
+		
+
+		// git stash new project
+		//git stash 
+		//git stash2 
+
 	}
 
 }
