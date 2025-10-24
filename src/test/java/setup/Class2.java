@@ -11,6 +11,7 @@ public class Class2 {
 		//kavya
 		int a =10;
 
+		System.out.println("java");
 	}
 
 }
