@@ -14,6 +14,9 @@ public class Class2 {
 
 		System.out.println("java");
 		System.out.println("local to branch to reslove conflicts");
+//dinesh is JAVA
+		System.out.println("kavya");
+
 	}
 
 }
