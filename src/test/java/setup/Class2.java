@@ -3,7 +3,8 @@ package setup;
 public class Class2 {
 
 	public static void main(String[] args) {
-//dinesh is
+//dinesh is JAVA
+		System.out.println("kavya");
 	}
 
 }
