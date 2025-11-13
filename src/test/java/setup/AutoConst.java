@@ -9,7 +9,7 @@ public class AutoConst {
 	// git stash new project 
 
 	//git stash 
-	//git stash2 
+	//git stash2             git labs
 
 
 }
