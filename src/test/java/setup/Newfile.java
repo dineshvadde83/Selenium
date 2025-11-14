@@ -11,6 +11,8 @@ public class Newfile {
 		// git stash new project
 		//git stash 
 		//git stash2 
+		
+		//adding some data for second commit resert
 
 	}
 
