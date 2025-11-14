@@ -15,6 +15,7 @@ public class Newfile {
 		//adding some data for second commit resert
 		//rebase in newfile
 		//rebase ofr master
+		
 
 	}
 
