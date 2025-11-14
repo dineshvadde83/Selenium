@@ -6,7 +6,7 @@ public class Class2 {
 		System.out.println("local to branch to reslove conflicts");
 
 //dinesh is JAVA
-		System.out.println("kavya");  //added nov 13 th stash
+		System.out.println("kavya");
 
 //dinesh is java file 
 		//kavya

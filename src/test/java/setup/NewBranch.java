@@ -6,8 +6,6 @@ public class NewBranch {
 		//dinesh
 // just created a new file as new branch in a local repo , localautomation master 
 		
-		//adding some data for resert
-		
 	}
 
 }
