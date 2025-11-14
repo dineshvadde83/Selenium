@@ -10,6 +10,6 @@ public class AutoConst {
 
 	//git stash 
 	//git stash2             git labs
-//git added
+//git added  newcode form github to local
 
 }
