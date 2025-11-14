@@ -13,6 +13,7 @@ public class Newfile {
 		//git stash2 
 		
 		//adding some data for second commit resert
+		//rebase in newfile
 
 	}
 
