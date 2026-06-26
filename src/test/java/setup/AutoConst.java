@@ -12,4 +12,6 @@ public class AutoConst {
 	//git stash2             git labs
 //git added  newcode form github to local
 
+	// just pulling the changes from hub to local
+
 }
