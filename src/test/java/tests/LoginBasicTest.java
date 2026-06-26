@@ -7,6 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.chromium.ChromiumOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
@@ -20,7 +21,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
  * Adding in the setup the setting of the property "webdriver.chrome.driver" pointing to the absolute folder on my computer of the Chrome Web Driver.
  * So this has to be changed accordingly
  */
-public class LoginBasicTest {
+public class LoginBasicTest  {
 	public WebDriver driver;
 
 	@BeforeTest
@@ -40,6 +41,7 @@ public class LoginBasicTest {
 
         
 		driver = new ChromeDriver(options);
+		driver =new FirefoxDriver();
 		
 		
         driver.manage().window().maximize();
