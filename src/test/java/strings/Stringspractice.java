@@ -19,7 +19,8 @@ public class Stringspractice {
 	    
 	    char ch ='a';
 	    
-	    a=ch;
+	    a=ch; // comment added in the master branch 
+		
 	    
 	}
 
