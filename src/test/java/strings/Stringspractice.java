@@ -19,7 +19,7 @@ public class Stringspractice {
 	    
 	    char ch ='a';
 	    
-	    a=ch; // comment added in the master branch 
+	    a=ch; // comment added in the master branch // change in the appmod/security-fix-20260626124112 branch
 		
 	    
 	}
