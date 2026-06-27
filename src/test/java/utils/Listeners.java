@@ -3,6 +3,9 @@ package utils;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
+
+import seleniumPractice.Basetest;
+
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -15,7 +18,7 @@ import java.util.Date;
 
 import tests.LoginBasicTest;
 
-public class Listeners implements ITestListener {
+public class Listeners extends Basetest implements ITestListener {
 
     @Override
     public void onTestFailure(ITestResult result) {
@@ -26,7 +29,7 @@ public class Listeners implements ITestListener {
             takeScreenshot(driver, result.getName());
         }
     }
-
+    
     private void takeScreenshot(WebDriver driver, String testName) {
         File srcFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 
