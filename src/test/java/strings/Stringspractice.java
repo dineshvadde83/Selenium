@@ -17,7 +17,7 @@ public class Stringspractice {
 	    System.out.println(c);
 	    
 	    
-	    char ch ='a';
+	    char ch ='b';
 	    
 		
 	    
