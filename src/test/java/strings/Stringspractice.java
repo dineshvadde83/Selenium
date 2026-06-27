@@ -14,10 +14,10 @@ public class Stringspractice {
 	    int c = n.intValue();        // unboxing
 	    Integer d = a;               // autoboxing
 	    int e =n;                    // auto unboxing
-	    System.out.println(c);
+	    System.out.println(d); //10
 	    
 	    
-	    char ch ='a';
+	    char ch ='b';
 	    
 		
 	    
